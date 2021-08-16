@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 64d4cccfcd5e3b14e98197800f3c05ee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Huggable Hedgehogs Demo
+  fontNames:
+  - Huggable Hedgehogs Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
